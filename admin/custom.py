@@ -119,7 +119,7 @@ def Change_Custom() :
         g.db.commit()
         return  {
             "status_code": 0,
-            "status_msg": "删除成功",
+            "status_msg": "修改成功",
         }
 
 
